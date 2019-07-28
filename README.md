@@ -1,12 +1,21 @@
 # CISC 3140 - Assignment 2
 
-### Download Racket:
+**Download Racket:**
+
 https://download.racket-lang.org/
 
-### Run program:
+**Run program from command line:**
 
-racket
+Run racket:
 
-(enter! "luhn.scm")
+`racket`
 
-(luhn `(4 7 1 6 8 8 8 2 0 6 2 8 3 6 0 3))
+
+Run program:
+
+`(enter! "luhn.scm")`
+
+
+Enter number as a list:
+
+`(luhn `\``(4 7 1 6 8 8 8 2 0 6 2 8 3 6 0 3))`
