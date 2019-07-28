@@ -1,3 +1,5 @@
+#lang r5rs
+
 ;Parameter n is a list of numbers
 ;Processes the digits for the final mod 10 test and returns the result as an integer
 ;The base-case (1) tests if the list has a single element and returns
