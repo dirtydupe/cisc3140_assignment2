@@ -1,10 +1,9 @@
-#CISC 3140 - Assignment 2
+# CISC 3140 - Assignment 2
 
-##Download Racket:
-
+### Download Racket:
 https://download.racket-lang.org/
 
-##Run program:
+### Run program:
 
 racket
 
