@@ -8,7 +8,7 @@ https://download.racket-lang.org/
 
 **Run program from command line:**
 
-*Run racket:*
+*Run Racket:*
 
 `racket`
 
