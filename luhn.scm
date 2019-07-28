@@ -11,6 +11,7 @@
 ;{1, 3, 5, 7, 9}, respectively). If the number is less than 5 then the value is
 ;simply doubled. Numbers at odd positions are left alone (4) and, as in all of the
 ;previous cases, the cdr of the list is passed to the next call to process-digits.
+;The sum is gathered as the recursive calls return.
 (define process-digits (lambda (n)
                (if(= 1 (length n))                                     ;(1)   
                   (car n)
